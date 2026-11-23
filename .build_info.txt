@@ -1,4 +1,4 @@
-version=1.23.8
-built_at=2026-11-22T04:34:14.714Z
+version=1.23.9
+built_at=2026-11-23T01:28:20.353Z
 exes=otclient
 channel=official
